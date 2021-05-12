@@ -4,7 +4,7 @@
   "description": "<a id=\"top\"></a> ## Lecture 11",
   "main": "server.js",
   "dependencies": {
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "nodemon": "^1.19.1"
   },
   "devDependencies": {},
